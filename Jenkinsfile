@@ -4,10 +4,10 @@ pipeline {
     stages {
 
         stage('Clone Repository') {
-            steps {
-                git 'https://github.com/swethagandham2003/enterprise-selenium-framework.git'
-            }
-        }
+    steps {
+        git branch: 'main', url: 'https://github.com/swethagandham2003/enterprise-selenium-framework.git'
+    }
+}
 
         stage('Build') {
             steps {
