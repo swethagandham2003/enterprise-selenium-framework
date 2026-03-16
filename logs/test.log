@@ -1,0 +1,127 @@
+2026-03-13 19:07:26,888 | INFO | Starting test: Add User
+2026-03-13 19:07:27,160 | INFO | Logging in as admin
+2026-03-13 19:07:42,717 | INFO | Starting test: Add User
+2026-03-13 19:07:43,025 | INFO | Logging in as admin
+2026-03-13 19:07:58,396 | INFO | Starting test: Add User
+2026-03-13 19:07:58,692 | INFO | Logging in as admin
+2026-03-13 19:09:51,272 | INFO | Starting test: Add User
+2026-03-13 19:09:51,522 | INFO | Logging in as admin
+2026-03-13 19:09:53,909 | INFO | Opening Users page
+2026-03-13 19:09:53,910 | INFO | Clicking Add User
+2026-03-13 19:09:54,628 | INFO | Creating new user
+2026-03-13 19:09:57,465 | INFO | Verifying user exists in table
+2026-03-13 19:09:57,553 | INFO | Test completed successfully
+2026-03-13 19:10:06,473 | INFO | Starting test: Add User
+2026-03-13 19:10:06,786 | INFO | Logging in as admin
+2026-03-13 19:10:09,062 | INFO | Opening Users page
+2026-03-13 19:10:09,062 | INFO | Clicking Add User
+2026-03-13 19:10:09,768 | INFO | Creating new user
+2026-03-13 19:10:12,557 | INFO | Verifying user exists in table
+2026-03-13 19:10:12,638 | INFO | Test completed successfully
+2026-03-13 19:10:21,845 | INFO | Starting test: Add User
+2026-03-13 19:10:22,105 | INFO | Logging in as admin
+2026-03-13 19:10:24,355 | INFO | Opening Users page
+2026-03-13 19:10:24,356 | INFO | Clicking Add User
+2026-03-13 19:10:25,070 | INFO | Creating new user
+2026-03-13 19:10:27,960 | INFO | Verifying user exists in table
+2026-03-13 19:10:28,075 | INFO | Test completed successfully
+2026-03-13 19:13:37,424 | INFO | Starting test: Add User
+2026-03-13 19:13:37,741 | INFO | Logging in as admin
+2026-03-13 19:13:39,993 | INFO | Opening Users page
+2026-03-13 19:13:39,993 | INFO | Clicking Add User
+2026-03-13 19:13:40,696 | INFO | Creating new user
+2026-03-13 19:13:57,134 | INFO | Starting test: Add User
+2026-03-13 19:13:57,535 | INFO | Logging in as admin
+2026-03-13 19:13:59,777 | INFO | Opening Users page
+2026-03-13 19:13:59,777 | INFO | Clicking Add User
+2026-03-13 19:14:00,451 | INFO | Creating new user
+2026-03-13 19:14:16,362 | INFO | Starting test: Add User
+2026-03-13 19:14:16,629 | INFO | Logging in as admin
+2026-03-13 19:14:18,940 | INFO | Opening Users page
+2026-03-13 19:14:18,941 | INFO | Clicking Add User
+2026-03-13 19:14:19,612 | INFO | Creating new user
+2026-03-13 19:16:37,214 | INFO | Starting test: Add User
+2026-03-13 19:16:37,509 | INFO | Logging in as admin
+2026-03-13 19:16:39,828 | INFO | Opening Users page
+2026-03-13 19:16:39,828 | INFO | Clicking Add User
+2026-03-13 19:16:41,615 | INFO | Creating new user
+2026-03-13 19:16:44,558 | INFO | Verifying user exists in table
+2026-03-13 19:16:44,647 | INFO | Test completed successfully
+2026-03-13 19:16:53,660 | INFO | Starting test: Add User
+2026-03-13 19:16:53,963 | INFO | Logging in as admin
+2026-03-13 19:16:56,336 | INFO | Opening Users page
+2026-03-13 19:16:56,336 | INFO | Clicking Add User
+2026-03-13 19:16:57,098 | INFO | Creating new user
+2026-03-13 19:16:59,977 | INFO | Verifying user exists in table
+2026-03-13 19:17:00,073 | INFO | Test completed successfully
+2026-03-13 19:17:08,994 | INFO | Starting test: Add User
+2026-03-13 19:17:09,282 | INFO | Logging in as admin
+2026-03-13 19:17:11,764 | INFO | Opening Users page
+2026-03-13 19:17:11,764 | INFO | Clicking Add User
+2026-03-13 19:17:12,553 | INFO | Creating new user
+2026-03-13 19:17:15,768 | INFO | Verifying user exists in table
+2026-03-13 19:17:15,879 | INFO | Test completed successfully
+2026-03-13 19:18:23,577 | INFO | Starting test: Add User
+2026-03-13 19:18:24,013 | INFO | Logging in as admin
+2026-03-13 19:18:26,866 | INFO | Opening Users page
+2026-03-13 19:18:26,866 | INFO | Clicking Add User
+2026-03-13 19:18:28,077 | INFO | Creating new user
+2026-03-13 19:18:45,400 | INFO | Starting test: Add User
+2026-03-13 19:18:45,781 | INFO | Logging in as admin
+2026-03-13 19:18:48,651 | INFO | Opening Users page
+2026-03-13 19:18:48,652 | INFO | Clicking Add User
+2026-03-13 19:18:49,381 | INFO | Creating new user
+2026-03-13 19:19:05,472 | INFO | Starting test: Add User
+2026-03-13 19:19:05,796 | INFO | Logging in as admin
+2026-03-13 19:19:08,129 | INFO | Opening Users page
+2026-03-13 19:19:08,129 | INFO | Clicking Add User
+2026-03-13 19:19:08,834 | INFO | Creating new user
+2026-03-13 19:21:09,561 | INFO | Starting test: Add User
+2026-03-13 19:21:09,876 | INFO | Logging in as admin
+2026-03-13 19:21:12,640 | INFO | Opening Users page
+2026-03-13 19:21:12,640 | INFO | Clicking Add User
+2026-03-13 19:21:13,385 | INFO | Creating new user
+2026-03-13 19:21:16,792 | INFO | Verifying user exists in table
+2026-03-13 19:21:16,876 | INFO | Test completed successfully
+2026-03-13 19:22:17,402 | INFO | Starting test: Add User
+2026-03-13 19:22:17,809 | INFO | Logging in as admin
+2026-03-13 19:22:20,714 | INFO | Opening Users page
+2026-03-13 19:22:20,714 | INFO | Clicking Add User
+2026-03-13 19:22:21,501 | INFO | Creating new user
+2026-03-13 19:22:25,055 | INFO | Verifying user exists in table
+2026-03-13 19:22:25,197 | INFO | Test completed successfully
+2026-03-13 19:22:34,295 | INFO | Starting test: Add User
+2026-03-13 19:22:34,792 | INFO | Logging in as admin
+2026-03-13 19:22:37,050 | INFO | Opening Users page
+2026-03-13 19:22:37,051 | INFO | Clicking Add User
+2026-03-13 19:22:37,715 | INFO | Creating new user
+2026-03-13 19:22:40,435 | INFO | Verifying user exists in table
+2026-03-13 19:22:40,511 | INFO | Test completed successfully
+2026-03-13 19:22:49,935 | INFO | Starting test: Add User
+2026-03-13 19:22:50,257 | INFO | Logging in as admin
+2026-03-13 19:22:52,583 | INFO | Opening Users page
+2026-03-13 19:22:52,583 | INFO | Clicking Add User
+2026-03-13 19:22:53,343 | INFO | Creating new user
+2026-03-13 19:22:56,302 | INFO | Verifying user exists in table
+2026-03-13 19:22:56,427 | INFO | Test completed successfully
+2026-03-13 19:30:37,906 | INFO | Starting test: Add User
+2026-03-13 19:30:38,184 | INFO | Logging in as admin
+2026-03-13 19:30:40,511 | INFO | Opening Users page
+2026-03-13 19:30:40,512 | INFO | Clicking Add User
+2026-03-13 19:30:41,251 | INFO | Creating new user
+2026-03-13 19:30:44,244 | INFO | Verifying user exists in table
+2026-03-13 19:30:44,339 | INFO | Test completed successfully
+2026-03-13 19:30:53,344 | INFO | Starting test: Add User
+2026-03-13 19:30:53,605 | INFO | Logging in as admin
+2026-03-13 19:30:55,969 | INFO | Opening Users page
+2026-03-13 19:30:55,969 | INFO | Clicking Add User
+2026-03-13 19:30:56,734 | INFO | Creating new user
+2026-03-13 19:30:59,661 | INFO | Verifying user exists in table
+2026-03-13 19:30:59,772 | INFO | Test completed successfully
+2026-03-13 19:31:08,828 | INFO | Starting test: Add User
+2026-03-13 19:31:09,096 | INFO | Logging in as admin
+2026-03-13 19:31:11,437 | INFO | Opening Users page
+2026-03-13 19:31:11,438 | INFO | Clicking Add User
+2026-03-13 19:31:12,212 | INFO | Creating new user
+2026-03-13 19:31:15,194 | INFO | Verifying user exists in table
+2026-03-13 19:31:15,292 | INFO | Test completed successfully

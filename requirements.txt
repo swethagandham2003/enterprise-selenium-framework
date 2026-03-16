@@ -1,0 +1,6 @@
+selenium==4.18.0 #selenium for browser automation
+pytest==8.1.1 #pytest for testing framework
+pytest-xdist==3.5.0 #pytest-xdist for parallel test execution
+allure-pytest==2.13.5 #allure-pytest for generating allure reports
+webdriver-manager==4.0.1 #webdriver-manager for managing browser drivers
+pytest-html

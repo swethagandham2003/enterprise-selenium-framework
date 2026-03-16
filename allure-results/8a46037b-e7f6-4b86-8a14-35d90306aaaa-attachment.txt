@@ -1,0 +1,5 @@
+[32mINFO    [0m test_logger:test_users.py:20 Starting test: Add User
+[32mINFO    [0m test_logger:test_users.py:26 Logging in as admin
+[32mINFO    [0m test_logger:test_users.py:31 Opening Users page
+[32mINFO    [0m test_logger:test_users.py:33 Clicking Add User
+[32mINFO    [0m test_logger:test_users.py:35 Creating new user
